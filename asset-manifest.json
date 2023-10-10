@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/magicMemory/static/css/main.e02ebf56.css",
+    "main.js": "/magicMemory/static/js/main.8099dacb.js",
+    "index.html": "/magicMemory/index.html",
+    "main.e02ebf56.css.map": "/magicMemory/static/css/main.e02ebf56.css.map",
+    "main.8099dacb.js.map": "/magicMemory/static/js/main.8099dacb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e02ebf56.css",
+    "static/js/main.8099dacb.js"
+  ]
+}
